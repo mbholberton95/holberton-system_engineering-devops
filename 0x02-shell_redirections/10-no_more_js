@@ -1,2 +1,2 @@
-https://github.com/mbholberton95/holberton-system_engineering-devops#!/bin/bash
+#!/bin/bash
 find . -type f -name '*.js' -delete
